@@ -71,23 +71,21 @@ public class CurrentLearningPath {
   <a href="https://github.com/ASADDS2">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASADDS2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASADDS2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+<div align="center">
+  
+[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASADDS2&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ASADDS2)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASADDS2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASADDS2&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=8)](https://github.com/ASADDS2)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ASADDS2&theme=tokyonight&hide_border=false)](https://github.com/ASADDS2)
+
+</div>
 
 ---
 
