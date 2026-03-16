@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=statuspage&logoColor=white"/>
   <img src="https://img.shields.io/badge/Universidad%20del%20Atlántico-Mathematics-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Magma%20Ventures-Developer-FF4500?style=flat-square&logo=fireship&logoColor=white"/>
 </p>
