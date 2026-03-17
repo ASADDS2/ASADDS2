@@ -120,11 +120,15 @@ public class Sebastian2025 {
 
 <div align="center">
 
-[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASADDS2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ASADDS2)
+<img src="https://github-readme-stats.vercel.app/api?username=ASADDS2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sebastian's GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASADDS2&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8)](https://github.com/ASADDS2)
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ASADDS2&theme=tokyonight&hide_border=true)](https://github.com/ASADDS2)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASADDS2&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ASADDS2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -133,7 +137,7 @@ public class Sebastian2025 {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASADDS2&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ASADDS2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
