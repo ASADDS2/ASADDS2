@@ -87,7 +87,7 @@ Working on real-world projects across the full stack with modern technologies an
 ## 🎯 Current Focus
 
 ```java
-public class Sebastian2025 {
+public class Sebastian {
 
     // 🌋 Professional
     String[] magmaStack = {
