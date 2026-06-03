@@ -116,24 +116,6 @@ public class Sebastian {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ASADDS2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sebastian's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASADDS2&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ASADDS2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
